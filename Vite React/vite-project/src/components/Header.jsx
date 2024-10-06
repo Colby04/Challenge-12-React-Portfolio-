@@ -3,7 +3,7 @@ import Navigation from './Navigation';
 
 const Header = () => (
   <header>
-    <h1>Developer's Name</h1>
+    <h1>Colby J. Lucas</h1>
     <Navigation />
   </header>
 );
