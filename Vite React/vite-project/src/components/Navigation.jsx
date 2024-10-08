@@ -13,6 +13,7 @@ const Navigation = ({ currentSection, setCurrentSection }) => {
             onClick={() => setCurrentSection(section)}
           >
             {section}
+
           </li>
         ))}
       </ul>
