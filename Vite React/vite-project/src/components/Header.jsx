@@ -5,6 +5,7 @@ const Header = () => (
   <header>
     <h1>Colby J. Lucas</h1>
     <Navigation />
+    
   </header>
 );
 
